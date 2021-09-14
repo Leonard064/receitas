@@ -1,0 +1,5 @@
+para adicionar do git local para github
+
+git remote add origin https://github.com/Leonard064/<repositorio>
+
+git push origin master
