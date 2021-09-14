@@ -1,4 +1,4 @@
-#Strogonoff de Frango
+# Strogonoff de Frango
 
 **Olá, isso é um teste**
 _Padrão seguido pelos apps_
